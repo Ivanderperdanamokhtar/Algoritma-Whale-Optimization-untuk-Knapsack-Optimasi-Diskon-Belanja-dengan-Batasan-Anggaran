@@ -6,7 +6,11 @@ Implementasi Whale Optimization Algorithm (WOA) untuk menyelesaikan masalah knap
 
 Proyek ini menerapkan **Whale Optimization Algorithm (WOA)** untuk menyelesaikan masalah **knapsack** dengan fokus pada optimasi diskon belanja dalam batasan anggaran tertentu. Algoritma ini mensimulasikan perilaku berburu paus bungkuk untuk menemukan solusi optimal.
 
-Dataset yang digunakan adalah data simulasi dari situs belanja online yang mencakup informasi barang, harga diskon, harga asli, dan besaran diskon. Algoritma WOA diterapkan untuk memilih kombinasi barang yang memberikan keuntungan maksimal tanpa melebihi anggaran yang ditentukan.
+Penelitian ini menggunakan data dari jurnal Pemanfaatan Permasalahan Knapsack pada 
+Optimasi Diskon Belanja dengan Budget Minim (Danajaya,2021). Data merupakan data 23 
+barang telah dikumpulkan dari situs Amazon.com dan disusun dalam sebuah tabel. Setiap entri 
+dalam tabel mencakup informasi mengenai nama barang, harga setelah diskon, harga sebelum 
+diskon, dan besaran diskon yang diberikan.  Algoritma WOA diterapkan untuk memilih kombinasi barang yang memberikan keuntungan maksimal tanpa melebihi anggaran yang ditentukan.
 
 ## Fitur Utama
 
