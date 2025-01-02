@@ -93,11 +93,11 @@ Kelas utama yang mengimplementasikan algoritma WOA untuk menyelesaikan masalah k
 - Mirjalili, S., & Lewis, A. (2016). The Whale Optimization Algorithm. Advances in Engineering Software.
 
 ## Kontributor:
--Ivander Perdana Mokhtar 
--Christian A. N. Biran
--Andrian Agustinus L. Gaul 
--Siti Nur Azizah
--Rahmi Agustin 
+- Ivander Perdana Mokhtar 
+- Christian A. N. Biran
+- Andrian Agustinus L. Gaul 
+- Siti Nur Azizah
+- Rahmi Agustin 
 
 
 
